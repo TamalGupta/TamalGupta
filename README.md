@@ -1,3 +1,4 @@
+[![MasterHead](https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_1280.png)](https://tamalgupta.io)
 ### Hi there 👋, my name is Tamal Gupta
 #### I am a passionate frontend developer
 <img align="Right" width="400" src="https://cdn.pixabay.com/photo/2016/09/08/04/12/programmer-1653351_1280.png" alt="Coding"/>
