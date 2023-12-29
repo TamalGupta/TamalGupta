@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tamal Gupta
 #### I am a passionate frontend developer
-<img align="Center" width="400" src="https://cdn.pixabay.com/photo/2016/09/08/04/12/programmer-1653351_1280.png" alt="Coding"/>
+<img align="Right" width="400" src="https://cdn.pixabay.com/photo/2016/09/08/04/12/programmer-1653351_1280.png" alt="Coding"/>
 I am a highly motivated and detail-oriented individual with a strong passion for web development, particularly focused on the front-end experience. I am driven by a desire to create captivating and user-friendly interfaces that bring both creativity and technical rigor to life.
 
 While I am currently building my professional experience in the field, I am eager to leverage my solid foundation in programming languages like HTML, CSS, and JavaScript. I am actively expanding my skillset, exploring frameworks like ReactJS and AngularJS to build dynamic and interactive web applications.
